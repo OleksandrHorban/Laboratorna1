@@ -1,0 +1,15 @@
+C:\Users\ACER 3\source\repos\CsharpLaba3.14\CsharpLaba3.14\obj\Debug\net5.0\CsharpLaba3.14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER 3\source\repos\CsharpLaba3.14\CsharpLaba3.14\obj\Debug\net5.0\CsharpLaba3.14.AssemblyInfoInputs.cache
+C:\Users\ACER 3\source\repos\CsharpLaba3.14\CsharpLaba3.14\obj\Debug\net5.0\CsharpLaba3.14.AssemblyInfo.cs
+C:\Users\ACER 3\source\repos\CsharpLaba3.14\CsharpLaba3.14\obj\Debug\net5.0\CsharpLaba3.14.csproj.CoreCompileInputs.cache
+C:\Users\ACER 3\source\repos\CsharpLaba3.14\CsharpLaba3.14\bin\Debug\net5.0\CsharpLaba3.14.exe
+C:\Users\ACER 3\source\repos\CsharpLaba3.14\CsharpLaba3.14\bin\Debug\net5.0\CsharpLaba3.14.deps.json
+C:\Users\ACER 3\source\repos\CsharpLaba3.14\CsharpLaba3.14\bin\Debug\net5.0\CsharpLaba3.14.runtimeconfig.json
+C:\Users\ACER 3\source\repos\CsharpLaba3.14\CsharpLaba3.14\bin\Debug\net5.0\CsharpLaba3.14.runtimeconfig.dev.json
+C:\Users\ACER 3\source\repos\CsharpLaba3.14\CsharpLaba3.14\bin\Debug\net5.0\CsharpLaba3.14.dll
+C:\Users\ACER 3\source\repos\CsharpLaba3.14\CsharpLaba3.14\bin\Debug\net5.0\ref\CsharpLaba3.14.dll
+C:\Users\ACER 3\source\repos\CsharpLaba3.14\CsharpLaba3.14\bin\Debug\net5.0\CsharpLaba3.14.pdb
+C:\Users\ACER 3\source\repos\CsharpLaba3.14\CsharpLaba3.14\obj\Debug\net5.0\CsharpLaba3.14.dll
+C:\Users\ACER 3\source\repos\CsharpLaba3.14\CsharpLaba3.14\obj\Debug\net5.0\ref\CsharpLaba3.14.dll
+C:\Users\ACER 3\source\repos\CsharpLaba3.14\CsharpLaba3.14\obj\Debug\net5.0\CsharpLaba3.14.pdb
+C:\Users\ACER 3\source\repos\CsharpLaba3.14\CsharpLaba3.14\obj\Debug\net5.0\CsharpLaba3.14.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpLaba3.14", "CsharpLaba3.14\CsharpLaba3.14.csproj", "{E102E5D4-5DCA-4C44-8E11-2E595B0C8083}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E102E5D4-5DCA-4C44-8E11-2E595B0C8083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E102E5D4-5DCA-4C44-8E11-2E595B0C8083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E102E5D4-5DCA-4C44-8E11-2E595B0C8083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E102E5D4-5DCA-4C44-8E11-2E595B0C8083}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D4531D6-61FF-4BDA-9BDD-5BDE8A3F08B0}
+	EndGlobalSection
+EndGlobal

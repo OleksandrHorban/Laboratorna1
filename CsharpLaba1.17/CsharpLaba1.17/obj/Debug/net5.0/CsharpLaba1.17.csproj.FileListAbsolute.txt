@@ -1,0 +1,16 @@
+C:\Users\ACER 3\source\repos\CsharpLaba1.17\CsharpLaba1.17\bin\Debug\net5.0\CsharpLaba1.17.exe
+C:\Users\ACER 3\source\repos\CsharpLaba1.17\CsharpLaba1.17\bin\Debug\net5.0\CsharpLaba1.17.deps.json
+C:\Users\ACER 3\source\repos\CsharpLaba1.17\CsharpLaba1.17\bin\Debug\net5.0\CsharpLaba1.17.runtimeconfig.json
+C:\Users\ACER 3\source\repos\CsharpLaba1.17\CsharpLaba1.17\bin\Debug\net5.0\CsharpLaba1.17.runtimeconfig.dev.json
+C:\Users\ACER 3\source\repos\CsharpLaba1.17\CsharpLaba1.17\bin\Debug\net5.0\CsharpLaba1.17.dll
+C:\Users\ACER 3\source\repos\CsharpLaba1.17\CsharpLaba1.17\bin\Debug\net5.0\ref\CsharpLaba1.17.dll
+C:\Users\ACER 3\source\repos\CsharpLaba1.17\CsharpLaba1.17\bin\Debug\net5.0\CsharpLaba1.17.pdb
+C:\Users\ACER 3\source\repos\CsharpLaba1.17\CsharpLaba1.17\obj\Debug\net5.0\CsharpLaba1.17.csproj.AssemblyReference.cache
+C:\Users\ACER 3\source\repos\CsharpLaba1.17\CsharpLaba1.17\obj\Debug\net5.0\CsharpLaba1.17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER 3\source\repos\CsharpLaba1.17\CsharpLaba1.17\obj\Debug\net5.0\CsharpLaba1.17.AssemblyInfoInputs.cache
+C:\Users\ACER 3\source\repos\CsharpLaba1.17\CsharpLaba1.17\obj\Debug\net5.0\CsharpLaba1.17.AssemblyInfo.cs
+C:\Users\ACER 3\source\repos\CsharpLaba1.17\CsharpLaba1.17\obj\Debug\net5.0\CsharpLaba1.17.csproj.CoreCompileInputs.cache
+C:\Users\ACER 3\source\repos\CsharpLaba1.17\CsharpLaba1.17\obj\Debug\net5.0\CsharpLaba1.17.dll
+C:\Users\ACER 3\source\repos\CsharpLaba1.17\CsharpLaba1.17\obj\Debug\net5.0\ref\CsharpLaba1.17.dll
+C:\Users\ACER 3\source\repos\CsharpLaba1.17\CsharpLaba1.17\obj\Debug\net5.0\CsharpLaba1.17.pdb
+C:\Users\ACER 3\source\repos\CsharpLaba1.17\CsharpLaba1.17\obj\Debug\net5.0\CsharpLaba1.17.genruntimeconfig.cache

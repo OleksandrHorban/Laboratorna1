@@ -1,0 +1,16 @@
+C:\Users\ACER 3\source\repos\Csharp Laba1\Csharp Laba1\bin\Debug\net5.0\Csharp Laba1.exe
+C:\Users\ACER 3\source\repos\Csharp Laba1\Csharp Laba1\bin\Debug\net5.0\Csharp Laba1.deps.json
+C:\Users\ACER 3\source\repos\Csharp Laba1\Csharp Laba1\bin\Debug\net5.0\Csharp Laba1.runtimeconfig.json
+C:\Users\ACER 3\source\repos\Csharp Laba1\Csharp Laba1\bin\Debug\net5.0\Csharp Laba1.runtimeconfig.dev.json
+C:\Users\ACER 3\source\repos\Csharp Laba1\Csharp Laba1\bin\Debug\net5.0\Csharp Laba1.dll
+C:\Users\ACER 3\source\repos\Csharp Laba1\Csharp Laba1\bin\Debug\net5.0\ref\Csharp Laba1.dll
+C:\Users\ACER 3\source\repos\Csharp Laba1\Csharp Laba1\bin\Debug\net5.0\Csharp Laba1.pdb
+C:\Users\ACER 3\source\repos\Csharp Laba1\Csharp Laba1\obj\Debug\net5.0\Csharp Laba1.csproj.AssemblyReference.cache
+C:\Users\ACER 3\source\repos\Csharp Laba1\Csharp Laba1\obj\Debug\net5.0\Csharp Laba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER 3\source\repos\Csharp Laba1\Csharp Laba1\obj\Debug\net5.0\Csharp Laba1.AssemblyInfoInputs.cache
+C:\Users\ACER 3\source\repos\Csharp Laba1\Csharp Laba1\obj\Debug\net5.0\Csharp Laba1.AssemblyInfo.cs
+C:\Users\ACER 3\source\repos\Csharp Laba1\Csharp Laba1\obj\Debug\net5.0\Csharp Laba1.csproj.CoreCompileInputs.cache
+C:\Users\ACER 3\source\repos\Csharp Laba1\Csharp Laba1\obj\Debug\net5.0\Csharp Laba1.dll
+C:\Users\ACER 3\source\repos\Csharp Laba1\Csharp Laba1\obj\Debug\net5.0\ref\Csharp Laba1.dll
+C:\Users\ACER 3\source\repos\Csharp Laba1\Csharp Laba1\obj\Debug\net5.0\Csharp Laba1.pdb
+C:\Users\ACER 3\source\repos\Csharp Laba1\Csharp Laba1\obj\Debug\net5.0\Csharp Laba1.genruntimeconfig.cache
